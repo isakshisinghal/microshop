@@ -39,12 +39,12 @@ All services are available on Docker Hub under my account.
 
 | Service               | Docker Image                                         |
 |-----------------------|-----------------------------------------------------|
-| API Gateway           | `rishavthakur/api-gateway:latest`     |
-| DiscoveryServer       | `rishavthakur/discovery-server:latest`        |
-| Product Service       | `rishavthakur/product-service:latest` |
-| Order Service         | `rishavthakur/order-service:latest`   |
-| Inventory Service     | `rishavthakur/inventory-service:latest` |
-| Notification Service  | `rishavthakur/notification-service:latest` |
+| API Gateway           | `sakshisinghal/api-gateway:latest`     |
+| DiscoveryServer       | `sakshisinghal/discovery-server:latest`        |
+| Product Service       | `sakshisinghal/product-service:latest` |
+| Order Service         | `sakshisinghal/order-service:latest`   |
+| Inventory Service     | `sakshisinghal/inventory-service:latest` |
+| Notification Service  | `sakshisinghal/notification-service:latest` |
 
 ---
 
